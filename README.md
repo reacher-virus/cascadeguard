@@ -38,7 +38,7 @@ This repository contains the complete implementation of a **100% offline, local 
 ## 📂 Repository Layout
 
 ```
-c:/harsh/CAPSTONE/
+c:/yash/CAPSTONE/
 ├── README.md                              # Master project overview & quick start (this file)
 ├── requirements.txt                       # Pinned Python package dependencies
 ├── docs/                                  # Comprehensive architectural & reproduction guides
